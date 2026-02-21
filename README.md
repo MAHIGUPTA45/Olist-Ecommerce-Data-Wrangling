@@ -93,3 +93,10 @@ Sales trend analysis
 Revenue reporting
 
 Time-series exploration
+
+
+Due to GitHub file size limitations, a 5,000-row sample dataset has been uploaded for preview purposes.
+
+The full dataset (112k+ records) was used for analysis and is available publicly at:
+
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
