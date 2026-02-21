@@ -21,6 +21,7 @@ Merge multi-table dataset into a unified master dataset
 Create revenue-ready dataset for future EDA and dashboarding
 
 **📂 Dataset Used**
+
 Olist Brazilian E-Commerce Public Dataset
 
 Key tables used:
@@ -30,6 +31,7 @@ olist_orders_dataset
 olist_order_items_dataset
 
 **🛠 Data Cleaning & Preparation Steps**
+
 1️⃣ Datetime Conversion
 
 Converted all order-related timestamp columns from object to datetime64.
